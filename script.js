@@ -42,3 +42,4 @@ button.forEach(item => {
     })
 })
 
+alert("test")
